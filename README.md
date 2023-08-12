@@ -19,6 +19,7 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <hr style="width:80%" color="white">
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
+  <img src="https://iconape.com/wp-content/png_logo_vector/quartus.png" alt="quartusII" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-asm-4805682-3993259.png" alt="assembly" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/dotnet/docs/cb475ed45f881e9462e34764480d3b0ebce85e91/docs/images/hub/csharp.svg" alt="c#" width="40" height="40"/>
