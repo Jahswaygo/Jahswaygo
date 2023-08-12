@@ -12,10 +12,10 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <hr style="width:80%" color="white">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/jahmil-ally-40497416a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jahmil Ally" height="40" width="40" /></a>
-<a href="https://www.instagram.com/jahswaygo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jahmil Ally" height="40" width="40" /></a>
-<a href="https://leetcode.com/Jahswaygo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jahmil Ally" height="40" width="40" /></a>
-<a href="https://discord.gg/jahswaygo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jahswaygo" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/jahmil-ally-40497416a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jahmil Ally" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jahswaygo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jahmil Ally" height="30" width="40" /></a>
+<a href="https://leetcode.com/Jahswaygo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jahmil Ally" height="30" width="40" /></a>
+<a href="https://discord.gg/jahswaygo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jahswaygo" height="30" width="40" /></a>
 <hr style="width:80%" color="white">
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
