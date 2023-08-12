@@ -17,7 +17,6 @@ I'm Jahmil and I am a 3rd-year Software Engineering student based in Mississauga
 <a href="https://www.instagram.com/jahswaygo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jahmil Ally" height="30" width="40" /></a>
 <a href="https://leetcode.com/Jahswaygo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jahmil Ally" height="30" width="40" /></a>
 <a href="https://discord.gg/jahswaygo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jahswaygo" height="30" width="40" /></a>
-</p>
 <hr style="width:80%" color="white">
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
