@@ -2,8 +2,7 @@
 <h3 align="center">Passionate Software Engineering Student 🚀 | Problem Solver 💡 | Tech Enthusiast 🖥️</h3> 
 <br/>
 
-
-I'm Jahmil and I am a 3rd-year Software Engineering student based in Mississauga 🏫. I'm enthusiastic about learning new skills and working on software and hardware projects that challenge my abilities and ignite my creativity 🕹️. I've undertaken various individual and group projects, which have enhanced my skills and given me the confidence to bring innovative ideas to life. I'm also an active member of student groups like Ryerson Formula Racing 🏎️ and Ryerson International Hyperloop 🚄, where I lead the Guidance, Navigation & Control - Data Acquisition System Team. My combination of academic strength 📚 and practical experience allows me to continuously evolve and improve myself 🦾.
+I'm Jahmil and I am a 3rd-year Software Engineering student based in Mississauga 🏫. I'm enthusiastic about learning new skills and working on software and hardware projects that challenge my abilities and ignite my creativity 🕹️. Through various individual and group projects, I've honed my skills and gained the confidence to bring innovative ideas to life. My strong academic foundation 📚 combined with practical experience fuels my continuous evolution and self-improvement 🦾.
 
 - 🔭 I’m currently working on **A Playlist Converter**
 - 🌱 I’m currently learning **Python and C#**
@@ -25,8 +24,8 @@ Languages and Tools:
 - Other: Object-Oriented Design, Soldering, Software/Hardware Troubleshooting
 
 <hr style="width:80%" color="white">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahmilc&show_icons=true&locale=en&layout=compact" alt="jahmilc" width="495px"/></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jahswaygo&show_icons=true&locale=en&layout=compact" alt="Jahswaygo" width="495px"/></p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jahmilc&show_icons=true&locale=en" alt="jahmilc" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jahswaygo&show_icons=true&locale=en" alt="Jahswaygo" /></p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahmilc&" alt="jahmilc" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jahswaygo&" alt="Jahswaygo" /></p>
