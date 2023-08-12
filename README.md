@@ -29,8 +29,6 @@ I'm Jahmil and I am a 3rd-year Software Engineering student based in Mississauga
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="40" height="40"/>
   <img src="https://dl2.macupdate.com/images/icons256/16945.png?time=1618907402" alt="visualparadigm" width="40" height="40"/>
-    
-<hr style="width:80%" color="white">
 <br/>
 <hr style="width:80%" color="white">
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jahswaygo&show_icons=true&locale=en&layout=compact" alt="Jahswaygo" width="495px"/></p>
