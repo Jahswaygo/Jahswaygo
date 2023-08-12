@@ -1,35 +1,32 @@
-# Hi there! 👋
+<h1 align="center">Hi ✌️, I'm Jahmil</h1>
+<h3 align="center">Passionate Software Engineering Student 🚀 | Problem Solver 💡 | Tech Enthusiast 🖥️</h3> 
+<br/>
 
-I'm Jahmil, a dedicated Software Engineering student based in [Your Location]. Welcome to my GitHub profile!
 
-## About Me
+I'm Jahmil and I am a 3rd-year Software Engineering student based in Mississauga 🏫. I'm enthusiastic about learning new skills and working on software and hardware projects that challenge my abilities and ignite my creativity 🕹️. I've undertaken various individual and group projects, which have enhanced my skills and given me the confidence to bring innovative ideas to life. I'm also an active member of student groups like Ryerson Formula Racing 🏎️ and Ryerson International Hyperloop 🚄, where I lead the Guidance, Navigation & Control - Data Acquisition System Team. My combination of academic strength 📚 and practical experience allows me to continuously evolve and improve myself 🦾.
 
-I'm a passionate 3rd-year Software Engineering student at Toronto Metropolitan University. My journey in the world of software development has equipped me with a solid understanding of engineering analysis principles and techniques. I love diving into projects that challenge me and allow me to explore the intersection of creativity and logic.
+- 🔭 I’m currently working on **A Playlist Converter**
+- 🌱 I’m currently learning **Python and C#**
+- 🤝 I’m looking for help with **Internships and Co-op Position**
+- 💬 Ask me about **Data Structures, Algorithms, and Object-Oriented Programming**
+- 📨 How to reach me: [jahmil.ally@torontomu.ca](mailto:jahmil.ally@torontomu.ca)
+- ❓ Fun fact: I am left handed
 
-## Tech Stack
+Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/jahmil-ally-40497416a/)
+- [Instagram](https://www.instagram.com/jahswaygo/)
+- [LeetCode](https://leetcode.com/Jahswaygo/)
+- [Discord](https://discord.gg/jahswaygo)
 
-- Languages: Java, Python, C
-- Frameworks: JavaFX
-- Tools: Quartus II, MS Excel, MS Word, Adobe Illustrator
+Languages and Tools:
+- Languages: Java, Python, C, JavaScript, C#
+- Frameworks: JavaFX, Unity
+- Tools: Quartus II, MS Excel, MS Word, Adobe Illustrator, Notion, Overleaf, Visual Paradigm, Whimsical
 - Other: Object-Oriented Design, Soldering, Software/Hardware Troubleshooting
 
-## Projects
-
-### 2-D Unity Game
-Currently, I'm developing a 2D game using the Unity Engine to enhance my proficiency in handling physics and mechanics within game development. This project not only pushes my technical skills but also allows me to unleash my creativity.
-
-### [Another Project Name]
-Brief description of another notable project. Highlight its impact and the technologies you utilized.
-
-## GitHub Stats
-
-![Jahmil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=contribs,prs)
-
-## Connect with Me
-
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Profile URL]
-- Portfolio: [Your Portfolio Website URL]
-- Email: [Your Email Address]
-
-Feel free to connect with me for collaboration or just to chat about tech and projects! 🚀
+<hr style="width:80%" color="white">
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahmilc&show_icons=true&locale=en&layout=compact" alt="jahmilc" width="495px"/></p>
+<br/>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jahmilc&show_icons=true&locale=en" alt="jahmilc" /></p>
+<br/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahmilc&" alt="jahmilc" /></p>
