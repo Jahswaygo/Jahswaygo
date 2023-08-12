@@ -27,9 +27,9 @@ I'm Jahmil and I am a 3rd-year Software Engineering student based in Mississauga
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="40" height="40"/>
-  <img src="https://apksshare.com/wp-content/uploads/2021/06/Notion-Notes-Tasks-Wikis-APK-MOD-Premium-Download-0.6.112.png" alt="notion" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
   <img src="https://dl2.macupdate.com/images/icons256/16945.png?time=1618907402" alt="visualparadigm" width="40" height="40"/>
+  
 </p>
 <hr style="width:80%" color="white">
 <br/>
