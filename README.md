@@ -9,7 +9,6 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 - 💬 Ask me about **Data Structures, Algorithms, and Object-Oriented Programming**
 - 📨 How to reach me: [jahmil.ally@torontomu.ca](mailto:jahmil.ally@torontomu.ca)
 - ❓ Fun fact: I am left handed
-<br/>
 <hr style="width:80%" color="white">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
