@@ -2,8 +2,7 @@
 <h3 align="center">Passionate Software Engineering Student 👨‍💻 | Problem Solver 💡 | Tech Enthusiast 🖥️</h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jahswaygo&label=Profile%20views&color=0e75b6&style=flat" alt="Jahswaygo" /> </p>
 I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Mississauga 🏫. I'm enthusiastic about learning new skills and working on software and hardware projects that challenge my abilities and ignite my creativity 🕹️. Through various individual and group projects, I've honed my skills and gained the confidence to bring innovative ideas to life. My strong academic foundation 📚 combined with practical experience fuels my continuous evolution and self-improvement 🦾.
-
-
+</p>
 - 🔭 I’m currently working on **A Playlist Converter**
 - 🌱 I’m currently learning **Python and C#**
 - 🤝 I’m looking for help with **Internships and Co-op Positions**
@@ -19,7 +18,6 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <a href="https://discord.gg/jahswaygo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jahswaygo" height="30" width="40" /></a>
 <hr style="width:80%" color="white">
 <h3 align="center">Languages and Tools:</h3>
-
 <p align="center"> 
 <a href="https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/quartus.png" alt="quartusII" width="40" height="40"/>
 </a> <a href="https://www.nxp.com/design/software/development-software/codewarrior-development-tools/codewarrior-legacy/codewarrior-development-studio-for-hcs12x-microcontrollers-classic-ide-v5-2:CW-HCS12X" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-asm-4805682-3993259.png" alt="assembly" width="40" height="40"/>
