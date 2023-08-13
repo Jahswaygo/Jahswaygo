@@ -38,9 +38,9 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jahswaygo&theme={dark}&show_icons=true&locale=en" alt="Jahswaygo" width="495px"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jahswaygo&show_icons=true&locale=en&theme={dark}" alt="Jahswaygo" width="495px"/></p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jahswaygo&theme={dark}&show_icons=true&locale=en" alt="Jahswaygo" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jahswaygo&show_icons=true&locale=en&theme={dark}" alt="Jahswaygo" /></p>
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jahswaygo&theme={dark}" alt="Jahswaygo" /></p>
 
