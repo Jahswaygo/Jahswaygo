@@ -51,7 +51,7 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
 <p align="center"> 
-<a href="https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/quartus.png" alt="quartusII" width="40" height="40"/>
+<a href="https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/quartus-logo-png-transparent.png" alt="quartusII" width="40" height="40"/>
 <a href="https://www.visual-paradigm.com/" target="_blank" rel="noreferrer"> <img src="https://dl2.macupdate.com/images/icons256/16945.png?time=1618907402" alt="visualparadigm" width="40" height="40"/>
 </p>
 <h3 align="center">Operating System Platforms:</h3>
