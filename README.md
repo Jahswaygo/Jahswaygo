@@ -12,10 +12,10 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <hr style="width:80%" color="white">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/jahmil-ally-40497416a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jahmil Ally" height="30" width="40" /></a>
-<a href="https://www.instagram.com/jahswaygo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jahmil Ally" height="30" width="40" /></a>
-<a href="https://leetcode.com/Jahswaygo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jahmil Ally" height="30" width="40" /></a>
-<a href="https://discord.gg/jahswaygo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jahswaygo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jahmil-ally-40497416a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/jahswaygo/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://leetcode.com/Jahswaygo/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="https://discord.gg/jahswaygo" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <hr style="width:80%" color="white">
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
