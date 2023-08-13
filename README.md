@@ -2,7 +2,9 @@
 <h3 align="center">Passionate Software Engineering Student 👨‍💻 | Problem Solver 💡 | Tech Enthusiast 🖥️</h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jahswaygo&label=Profile%20views&color=0e75b6&style=flat" alt="Jahswaygo" /> </p>
 I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Mississauga 🏫. I'm enthusiastic about learning new skills and working on software and hardware projects that challenge my abilities and ignite my creativity 🕹️. Through various individual and group projects, I've honed my skills and gained the confidence to bring innovative ideas to life. My strong academic foundation 📚 combined with practical experience fuels my continuous evolution and self-improvement 🦾.
-</p>
+
+
+-
 - 🔭 I’m currently working on **A Playlist Converter**
 - 🌱 I’m currently learning **Python and C#**
 - 🤝 I’m looking for help with **Internships and Co-op Positions**
