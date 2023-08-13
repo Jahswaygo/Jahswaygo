@@ -1,7 +1,7 @@
 <h1 align="center">Hi ✌️, I'm Jahmil Ally</h1>
 <h3 align="center">Passionate Software Engineering Student 👨‍💻 | Problem Solver 💡 | Tech Enthusiast 🖥️</h3> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jahswaygo&label=Profile%20views&color=0e75b6&style=flat" alt="Jahswaygo" /> </p>
-I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Mississauga 🏫. I'm enthusiastic about learning new skills and working on software and hardware projects that challenge my abilities and ignite my creativity 🕹️. Through various individual and group projects, I've honed my skills and gained the confidence to bring innovative ideas to life. My strong academic foundation 📚 combined with practical experience fuels my continuous evolution and self-improvement 🦾.
+I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Mississauga 🏫. I'm enthusiastic about learning new skills and working on software and hardware projects that challenge my abilities and ignite my creativity 🕹️. Through various individual and group projects, I've honed my skills and gained the confidence to bring innovative ideas to life. My strong academic foundation 📚 combined with practical experience fuels my continuous evolution and self-improvement 🦾.</br>
 
 
 - 🔭 I’m currently working on **A Playlist Converter**
@@ -10,7 +10,6 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 - 💬 Ask me about **Data Structures, Algorithms, and Object-Oriented Programming**
 - 📨 How to reach me: [jahmil.ally@torontomu.ca](mailto:jahmil.ally@torontomu.ca)
 - ❓ Fun fact: I am left handed
-</br>
 <hr style="width:80%" color="white">
 <h3 align="center">Connect with me:</h3>
 <p align="center">
