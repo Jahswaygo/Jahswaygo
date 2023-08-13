@@ -46,16 +46,15 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Prezi"/>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
 </p>
+<p align="center"> 
+<a href="https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/quartus.png" alt="quartusII" width="40" height="40"/>
+<a href="https://www.visual-paradigm.com/" target="_blank" rel="noreferrer"> <img src="https://dl2.macupdate.com/images/icons256/16945.png?time=1618907402" alt="visualparadigm" width="40" height="40"/>
+</p>
 <h3 align="center">Operating System Platforms:</h3>
 <p align="center"> 
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows11"/>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows10"/>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS"/>
-</p>
-
-<p align="center"> 
-<a href="https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/quartus.png" alt="quartusII" width="40" height="40"/>
-<a href="https://www.visual-paradigm.com/" target="_blank" rel="noreferrer"> <img src="https://dl2.macupdate.com/images/icons256/16945.png?time=1618907402" alt="visualparadigm" width="40" height="40"/>
 </p>
 <hr style="width:80%" color="white">
 <p align="center">
