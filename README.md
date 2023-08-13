@@ -19,6 +19,9 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <hr style="width:80%" color="white">
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
+SKJDFKJKSDJFJSKLDJK
+</p>
+<p align="center"> 
 <a href="https://www.intel.com/content/www/us/en/software-kit/666221/intel-quartus-ii-web-edition-design-software-version-13-1-for-windows.html" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/quartus.png" alt="quartusII" width="40" height="40"/>
 </a> <a href="https://www.nxp.com/design/software/development-software/codewarrior-development-tools/codewarrior-legacy/codewarrior-development-studio-for-hcs12x-microcontrollers-classic-ide-v5-2:CW-HCS12X" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-asm-4805682-3993259.png" alt="assembly" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
