@@ -13,16 +13,16 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/jahmil-ally-40497416a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.instagram.com/jahswaygo/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://leetcode.com/Jahswaygo/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="https://leetcode.com/Jahswaygo/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
 <a href="https://discord.gg/jahswaygo" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://www.instagram.com/jahswaygo/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <hr style="width:80%" color="white">
 <h3 align="center">Languages:</h3>
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="(https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="python"/>
 </p>
 <p align="center"> 
 </a> <a href="https://www.nxp.com/design/software/development-software/codewarrior-development-tools/codewarrior-legacy/codewarrior-development-studio-for-hcs12x-microcontrollers-classic-ide-v5-2:CW-HCS12X" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-asm-4805682-3993259.png" alt="assembly" width="40" height="40"/>
@@ -31,16 +31,16 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <h3 align="center">Tools:</h3>
 <p align="center"> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" alt="github"/>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode" />
 <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="NetBeans" />
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=for-the-badge" alt="unity" />
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual_studio" />
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino"/>
 <a href="https://www.ni.com/en/support/downloads/software-products/download.multisim.html#452133" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Multisim-57B685?logo=multisim&logoColor=fff&style=for-the-badge" alt="multi-sim"/>
-<a href="https://pypi.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="pypi"/> 
+<a href="https://pypi.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff&style=for-the-badge" alt="pypi"/> 
 <a href="https://pypi.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windowsterminal&logoColor=fff&style=for-the-badge" alt="windows_terminal"/> 
-<a href="https://chat.openai.com/auth/login" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff&style=for-the-badge" alt="Chat_GPT" />
+<a href="https://chat.openai.com/auth/login" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="Chat_GPT" />
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="adobe_ill"/>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/>
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="gimp"/>
