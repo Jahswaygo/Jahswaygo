@@ -21,11 +21,11 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java"/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
 </p>
 <p align="center"> 
 </a> <a href="https://www.nxp.com/design/software/development-software/codewarrior-development-tools/codewarrior-legacy/codewarrior-development-studio-for-hcs12x-microcontrollers-classic-ide-v5-2:CW-HCS12X" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-asm-4805682-3993259.png" alt="assembly" width="40" height="40"/>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 <a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/00edd8b9cf9eb98be328184dcc257f3b1b930c6b/topics/javafx/javafx.png" alt="javafx" width="40" height="40"/>
 </p>
 <h3 align="center">Tools:</h3>
@@ -36,8 +36,12 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="NetBeans" />
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual_studio" />
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino"/>
+<a href="https://www.ni.com/en/support/downloads/software-products/download.multisim.html#452133" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Multisim-57B685?logo=multisim&logoColor=fff&style=for-the-badge" alt="multi-sim"/>
+<a href="https://pypi.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="pypi"/> 
+<a href="https://pypi.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windowsterminal&logoColor=fff&style=for-the-badge" alt="windows_terminal"/> 
+<a href="https://chat.openai.com/auth/login" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff&style=for-the-badge" alt="Chat_GPT" />
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="adobe_ill"/>
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva"/>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="blender"/>
 <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="gimp"/>
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="notion"/>
@@ -53,7 +57,7 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <h3 align="center">Operating System Platforms:</h3>
 <p align="center"> 
 <a href="https://www.microsoft.com/en-ca/software-download/windows11" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows11"/>
-<a href="https://www.microsoft.com/en-ca/software-download/windows10" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows10"/>
+<a href="https://www.microsoft.com/en-ca/software-download/windows10" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff&style=for-the-badge" alt="Windows10"/>
 <a href="https://support.apple.com/macos" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS"/>
 </p>
 <hr style="width:80%" color="white">
