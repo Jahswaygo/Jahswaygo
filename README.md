@@ -15,6 +15,7 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <p align="center">
 <a href="https://linkedin.com/in/jahmil-ally-40497416a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/Jahswaygo/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
+<a href="https://www.w3profile.com/JAHSWAYGO" target="blank"><img align="center" src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" /></a>
 <a href="https://discord.gg/jahswaygo" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://www.instagram.com/jahswaygo/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <hr style="width:80%" color="white">
