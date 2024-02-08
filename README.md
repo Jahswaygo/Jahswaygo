@@ -69,7 +69,15 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <a href="https://support.apple.com/macos" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS"/>
 </p>
 <hr style="width:80%" color="white">
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jahswaygo&show_icons=true&locale=en&theme=dark&layout=compact" alt="Jahswaygo" width="495px"/> </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jahswaygo&theme=dark" alt="Jahswaygo" /> </p>
-<p align="center"><a href="https://leetcode.com/Jahswaygo/" target="blank"><img align="center" src="https://leetcard.jacoblin.cool/Jahswaygo?theme=dark&font=Monda&ext=activity" /></a></p>
+<table  style=" background-color: rgba(255, 255, 255, 0.5);" border="0" align="center" cellpadding="0" cellspacing="70" >
+<tr>
+<td align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jahswaygo&show_icons=true&locale=en&theme=dark&layout=compact" alt="Jahswaygo" width="495px"/><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jahswaygo&theme=dark" alt="Jahswaygo" /> 
+</td>
+<td align="center">
+<a href="https://leetcode.com/Jahswaygo/" target="blank"><img align="center" src="https://leetcard.jacoblin.cool/Jahswaygo?theme=dark&font=Monda&ext=activity" width"30px" height="470px"></a>
+</td>
+</tr>
+</table>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jahswaygo&show_icons=true&locale=en&theme=dark" alt="Jahswaygo" /></p>
