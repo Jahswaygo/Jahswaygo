@@ -69,7 +69,7 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <a href="https://support.apple.com/macos" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacOS"/>
 </p>
 <hr style="width:80%" color="white">
-<table  style=" background-color: rgba(255, 255, 255, 0.5);" border="0" align="center" cellpadding="0px" cellspacing="0px" >
+<table  style=" background-color: transparent; border:none;" border="0" align="center" cellpadding="0px" cellspacing="0px" >
 <tr>
 <td align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jahswaygo&show_icons=true&locale=en&theme=dark&layout=compact" alt="Jahswaygo" width="495px"/><br>
