@@ -5,7 +5,7 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 
           
 - 🔭 I’m currently working on **A Playlist Converter**
-- 🌱 I’m currently learning **Python and C#**
+- 🌱 I’m currently learning **Python, CSS, **
 - 🤝 I’m looking for help with **Internships and Co-op Positions**
 - 💬 Ask me about **Data Structures, Algorithms, and Object-Oriented Programming**
 - 📨 How to reach me: [jahmil.ally@torontomu.ca](mailto:jahmil.ally@torontomu.ca)
@@ -27,8 +27,8 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="python"/>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
 </p>
 <p align="center"> 
 </a> <a href="https://www.nxp.com/design/software/development-software/codewarrior-development-tools/codewarrior-legacy/codewarrior-development-studio-for-hcs12x-microcontrollers-classic-ide-v5-2:CW-HCS12X" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-asm-4805682-3993259.png" alt="assembly" width="40" height="40"/>
