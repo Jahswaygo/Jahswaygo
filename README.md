@@ -5,7 +5,7 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 
           
 - 🔭 I’m currently working on **A Playlist Converter**
-- 🌱 I’m currently learning **Python, CSS, **
+- 🌱 I’m currently learning **Python and Next.js**
 - 🤝 I’m looking for help with **Internships and Co-op Positions**
 - 💬 Ask me about **Data Structures, Algorithms, and Object-Oriented Programming**
 - 📨 How to reach me: [jahmil.ally@torontomu.ca](mailto:jahmil.ally@torontomu.ca)
