@@ -71,7 +71,6 @@ I'm Jahmil Ally and I am a 3rd-year Software Engineering student based in Missis
 <hr style="width:80%" color="white">
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jahswaygo&show_icons=true&locale=en&theme=dark" alt="Jahswaygo" width="500px"/><br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jahswaygo&theme=dark" alt="Jahswaygo" height="198px"/><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jahswaygo&show_icons=true&locale=en&theme=dark" alt="Jahswaygo" height="209px"/><br>
 <a href="https://leetcode.com/Jahswaygo/" target="blank"><img align="center" src="https://leetcard.jacoblin.cool/Jahswaygo?theme=dark&font=Monda&ext=activity" height="400px"></a>
 </p>
