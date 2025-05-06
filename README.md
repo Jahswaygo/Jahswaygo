@@ -5,7 +5,7 @@ I am a 4th-year Software Engineering student based in Mississauga 🏫. I'm enth
 
           
 - 🔭 I’m currently working on **A Playlist Converter**
-- 🌱 I’m currently learning **Selenium and Tensorflow **
+- 🌱 I’m currently learning **Selenium and Tensorflow**
 - 🤝 I’m looking for help with **Internships and Co-op Positions**
 - 💬 Ask me about **Data Structures, Algorithms, and Object-Oriented Programming**
 - 📨 How to reach me: [jahmil.ally@torontomu.ca](mailto:jahmil.ally@torontomu.ca)
