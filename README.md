@@ -85,7 +85,5 @@ I am a 4th-year Software Engineering student based in Mississauga 🏫. I'm enth
 </p>
 <hr style="width:80%" color="white">
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jahswaygo&show_icons=true&locale=en&theme=dark" alt="Jahswaygo" width="500px"/><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jahswaygo&show_icons=true&locale=en&theme=dark" alt="Jahswaygo" height="209px"/><br>
 <a href="https://leetcode.com/Jahswaygo/" target="blank"><img align="center" src="https://leetcard.jacoblin.cool/Jahswaygo?theme=dark&font=Monda&ext=activity" height="400px"></a>
 </p>
