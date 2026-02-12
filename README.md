@@ -4,8 +4,8 @@
 I am a 4th-year Software Engineering student based in Mississauga 🏫. I'm enthusiastic about learning new skills and working on software and hardware projects that challenge my abilities and ignite my creativity 🕹️. Through various individual and group projects, I've honed my skills and gained the confidence to bring innovative ideas to life. My strong academic foundation 📚 combined with practical experience fuels my continuous evolution and self-improvement 🦾.            
 
           
-- 🔭 I’m currently working on **A Playlist Converter**
-- 🌱 I’m currently learning **Selenium and Tensorflow**
+- 🔭 I'm currently working on **Network Security Projects, Distributed Cloud Computing Labs, and Automation Tools**
+- 🌱 I'm currently learning **Network Security, Cloud Computing (Docker, Distributed Systems), Software Testing & QA, and Machine Learning**
 - 🤝 I’m looking for help with **Internships and Co-op Positions**
 - 💬 Ask me about **Data Structures, Algorithms, and Object-Oriented Programming**
 - 📨 How to reach me: [jahmil.ally@torontomu.ca](mailto:jahmil.ally@torontomu.ca)
